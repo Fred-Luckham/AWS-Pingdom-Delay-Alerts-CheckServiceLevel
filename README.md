@@ -1,1 +1,1 @@
-# -AWS-Pingdom-Delay-Alerts-CheckServiceLevel
+# AWS-Pingdom-Delay-Alerts-CheckServiceLevel
